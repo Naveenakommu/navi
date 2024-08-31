@@ -1,0 +1,193 @@
+.logo{
+    height: 60px;
+    width: 60px;
+}
+#nav1{
+    color: black;
+}
+#nav2{
+    color: black;
+}
+#nav3{
+    color: black;
+}
+#nav4{
+    color: black;
+}
+.banner-section-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?ga=GA1.1.1777738213.1722840921&semt=ais_hybrid");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+}
+.banner-heading{
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bold;
+}
+.banner-para{
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bold;
+}
+.but-one{
+    height: 60px;
+    width: 100px;
+    border-radius: 8px;
+    color: white;
+    background-color: orange;
+}
+.but-two{
+    height: 60px;
+    width: 100px;
+    border-radius: 8px;
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: orange;
+}
+.wcu-section-head{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.wcu-section-para{
+    font-size: 10px;
+    
+    font-family: cursive;
+}
+.wcu-card-image{
+    height: 80px;
+    width: 80px;
+}
+.wcu-card-title{
+    font-family: cursive;
+    font-size: 20px;
+}
+.wcu-card-para{
+    font-size: 10px;
+    
+    font-family: cursive;
+}
+.wcu-card{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #e5eaf4;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+.offers{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.explore-image{
+    border-radius: 10px;
+}
+.menu-card-title{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.menu-item-link{
+    font-family: cursive;
+    font-size: 15px;
+    color: yellowgreen;
+}
+.menu-item-card{
+    border-radius: 16px;
+    
+}
+.healthy-image{
+    width: 250px;
+}
+.healthy-heading{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.healthy-para{
+    font-family: cursive;
+    font-size: 15px;
+}
+.healthy-button{
+    border-radius: 8px;
+    color: white;
+    background-color: orange;
+    border-width: 0px;
+}
+.healthy-food-section{
+    text-align: center;
+}
+.delivery-image{
+    width: 250px;
+}
+.delivery-and-payment{
+    text-align: center;
+}
+.payment-image{
+    height: 30px;
+    width: 30px;
+}
+.thanking-image{
+    width: 250px;
+}
+.thanking-button{
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    border-width: 0px;
+    text-align: center;
+}
+
+.thanking-customer{
+    text-align: center;
+}
+.follow-heading{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+}
+.text-center{
+    text-align: center;
+}
+.footer-section{
+    background-color: #2c2d2e;
+}
+.footer-heading{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.footer-para{
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+}
+.icon{
+    font-size: 30px;
+    color: blue;
+}
+.icon1{
+    font-size: 30px;
+    color: orangered;
+}
+.icon2{
+    font-size: 30px;
+    color: blue;
+}
+.follow-us-cont{
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
